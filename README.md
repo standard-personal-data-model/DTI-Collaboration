@@ -1,2 +1,2 @@
 # DTI-Collaboration
-This project is to collaborate with Data Transfer Initiative
+This project is set up to collaborate with Data Transfer Initiative.  More to follow. 
